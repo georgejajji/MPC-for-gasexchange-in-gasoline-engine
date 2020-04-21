@@ -1,4 +1,4 @@
-% Created by Robin Holmbom Ph.D. Student
+% Created by Robin Holmbom Ph.D. Student at Linkoping University
 % Generate reference following, with or without preview. 
 % preview = ~0: use r_func to get the upcoming reference
 % preview = 0: use the same upcoming reference as of now
