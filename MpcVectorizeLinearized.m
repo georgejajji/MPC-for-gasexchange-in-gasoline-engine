@@ -1,3 +1,4 @@
+% Created by Robin Holmbom Ph.D. Student at Linkoping University
 % Function that vectorizes the discretized system.
 % For x(k) = 0 then F is not needed, which is the case for linearized
 % system.
