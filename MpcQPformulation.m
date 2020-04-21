@@ -1,3 +1,4 @@
+% Created by Robin Holmbom Ph.D. Student
 % Translates problem to a QP formulation with reference following.
 % This is used for a linearized system.
 function [H,g] = MpcQPformulation(F,G,M)
