@@ -1,3 +1,4 @@
+% Created by Robin Holmbom Ph.D. Student
 % Creates a block diagonal matrix of A with dimension n.
 % A: k x m
 % B: k*n x m*n
