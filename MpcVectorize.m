@@ -1,3 +1,4 @@
+% Created by Robin Holmbom Ph.D. Student at Linkoping University
 % Function that vectorizes the discretized system.
 % X = Fx(k)+GU
 % U = [u(k),u(k+1),...,u(k+N-1)]';
